@@ -1,0 +1,2 @@
+python TwitterSampler.py --mode query_tweets --max_tweets 5 --query_string "inflation 😔" --max_emojis 2 --max_words 10
+python TwitterSampler.py --mode stream_tweets --max_tweets 5 --query_string "usa 😔" --max_emojis 2 --max_words 10

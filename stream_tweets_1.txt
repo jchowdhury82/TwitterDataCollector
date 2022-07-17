@@ -1,0 +1,6 @@
+tweet_counter|id|created_at|cleaned_text|lang|emoji_list|emoji_seq_nbr
+0|1548594865038303232|2022-07-17 09:06:01|good afternoon 😻|en|😻|114
+1|1548594871078092800|2022-07-17 09:06:03|such beauty ❤️|en|❤️|140
+2|1548594879873310721|2022-07-17 09:06:05|mil loo❤️👅|en|❤️,👅|140,419
+3|1548594888400404480|2022-07-17 09:06:07|morning babs have a good day 😊|en|😊|11
+4|1548594893400018946|2022-07-17 09:06:08|morning michele nd bella 🐶 have a lovely day 😘|en|🐶,😘|16,3073
